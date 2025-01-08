@@ -14,6 +14,8 @@ Interests: Backend development, learning new programming languages, and building
 
 Email: lokeshgopi57@gmail.com
 
+LinkedIn : https://www.linkedin.com/in/lokesh-g-43a811215/
+
 GitHub: You're already here! 😊
 
 Feel free to explore my repositories and projects. Let’s connect and collaborate on meaningful projects together!
