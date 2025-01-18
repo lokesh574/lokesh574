@@ -4,8 +4,6 @@ I’m a passionate developer with over a year of experience, currently working o
 
 👨‍💻 About Me:
 
-Experience: Over 1 year in software development.
-
 Current Role: Developer for a US project, focusing on C# and related technologies.
 
 Interests: Backend development, learning new programming languages, and building impactful solutions.
